@@ -13,9 +13,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP,RDP)
 - Wireshark (Protocol Analyzer)
 - Windows PowerShell
+- 
 
 <h2>Operating Systems Used </h2>
 
@@ -52,3 +53,26 @@ Created Windown and Linux Virtual Machines <img width="1360" height="642" alt="l
 
 
 Inspect network traffic from windows Vm and filter ICMP traffic with Ping <img width="1366" height="768" alt="pin4" src="https://github.com/user-attachments/assets/d06f6cf4-b8ad-47bb-b00f-e83970490105" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Use nslookup to view disney.com’s IP addresses and
+Observe the DNS traffic being show in WireShark <img width="1366" height="768" alt="dns disney" src="https://github.com/user-attachments/assets/d2cfbddd-a1fd-409c-83c1-443440bcf89e" />
+
+
+
