@@ -43,6 +43,7 @@ Created Windown and Linux Virtual Machines <img width="1360" height="642" alt="l
 
 
 
+<img width="1353" height="643" alt="ubuntu" src="https://github.com/user-attachments/assets/b572abdb-4309-49c6-8c99-651a283e1d9f" />
 
 
 
