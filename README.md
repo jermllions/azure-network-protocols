@@ -25,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 
 
-Created Windown and Linux Virtual Machines <img width="1360" height="642" alt="linuxV" src="https://github.com/user-attachments/assets/dc4cfe82-a609-40cc-bb45-afce6d58ba82" />
+Created Windows and Linux Virtual Machines <img width="1360" height="642" alt="linuxV" src="https://github.com/user-attachments/assets/dc4cfe82-a609-40cc-bb45-afce6d58ba82" />
 
 
 
