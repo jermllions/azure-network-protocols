@@ -25,7 +25,7 @@ In this lab, we used Wireshark to observe network traffic between Azure virtual 
 
 
 
-Created Windows and Linux Virtual Machines <img width="1360" height="642" alt="linuxV" src="https://github.com/user-attachments/assets/dc4cfe82-a609-40cc-bb45-afce6d58ba82" />
+First i Created Windows and Linux Virtual Machines <img width="1360" height="642" alt="linuxV" src="https://github.com/user-attachments/assets/dc4cfe82-a609-40cc-bb45-afce6d58ba82" />
 
 
 
@@ -52,7 +52,7 @@ Created Windows and Linux Virtual Machines <img width="1360" height="642" alt="l
 
 
 
-Inspect network traffic from windows Vm and filter ICMP traffic with Ping <img width="1366" height="768" alt="pin4" src="https://github.com/user-attachments/assets/d06f6cf4-b8ad-47bb-b00f-e83970490105" />
+Next i Inspected network traffic from windows Vm and filter ICMP traffic with Ping <img width="1366" height="768" alt="pin4" src="https://github.com/user-attachments/assets/d06f6cf4-b8ad-47bb-b00f-e83970490105" />
 
 
 
@@ -71,7 +71,7 @@ Inspect network traffic from windows Vm and filter ICMP traffic with Ping <img w
 
 
  
-Use nslookup to view disney.com’s IP addresses and
+And last i Used nslookup to view disney.com’s IP addresses to
 Observe the DNS traffic being show in WireShark <img width="1366" height="768" alt="dns disney" src="https://github.com/user-attachments/assets/d2cfbddd-a1fd-409c-83c1-443440bcf89e" />
 
 
